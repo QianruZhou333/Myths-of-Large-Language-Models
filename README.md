@@ -12,13 +12,16 @@ For example:
 
 
 More information can be found in paper: [Myths_of_Large_Language_Models.pdf](https://github.com/user-attachments/files/30209361/Myths_of_Large_Language_Models.pdf)
+
 also in: https://chinaxiv.org/abs/202606.00269
 
+https://github.com/QianruZhou333/Myths-of-Large-Language-Models/edit/main/README.md
 <img width="1157" height="560" alt="屏幕截图 2026-06-07 132740" src="https://github.com/user-attachments/assets/ef8d9f09-b476-4264-990e-3059088e18cf" />
 
-All data are history data, because you cannot collect data from the future. 
-No matter how accuary the model fit the history, there will always be unexpected pattern in the future. The future will always filled with possibilities. 
-Using machine learning in real-life, is to constrain the future within history's pattern, it will forbid any innovation, refuse any changes, decline any revolutions. 
+#### All data are history data, because you cannot collect data from the future. 
+#### No matter how accuary the model fit the history, there will always be unexpected pattern in the future. The future will always filled with possibilities. 
+#### Using machine learning in real-life, is to constrain the future within history's pattern, it will forbid any innovation, refuse any changes, decline any revolutions. 
+
 There are only two kinds of things in the world: those who can be predicted, and those cannot. For the latter, any endeavors trying to predict their future are nothing but superstitions
 
 Can you find a mathematic equation that can describe the fragrance of a rose?
