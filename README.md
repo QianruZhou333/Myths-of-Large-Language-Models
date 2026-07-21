@@ -1,6 +1,8 @@
 # Myths-of-Large-Language-Models
 
-####### [Myths_of_Large_Language_Models.pdf](https://github.com/user-attachments/files/30209361/Myths_of_Large_Language_Models.pdf)
+[Myths_of_Large_Language_Models.pdf](https://github.com/user-attachments/files/30225066/Myths_of_Large_Language_Models.pdf)
+
+
 
 The Artificial Intelligence research community is severely misled by publications and propaganda. All the terminologies and technologies are either fraudulent or deviated from their genuine meaning.  
 
@@ -11,7 +13,7 @@ For example:
 #### "Large Language Model" is the model of how human build their model of the world based on their experience in real world, because human's model of the world in the sub-consciousness is represented by language, thus it is called "language model", or "model of the model", thus, "meta-model".
 
 
-More information can be found in paper: [Myths_of_Large_Language_Models.pdf](https://github.com/user-attachments/files/30209361/Myths_of_Large_Language_Models.pdf)
+More information can be found in paper: [Myths_of_Large_Language_Models.pdf](https://github.com/user-attachments/files/30225066/Myths_of_Large_Language_Models.pdf)
 
 also in: https://chinaxiv.org/abs/202606.00269
 
