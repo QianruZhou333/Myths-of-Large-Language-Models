@@ -15,7 +15,7 @@ More information can be found in paper: [Myths_of_Large_Language_Models.pdf](htt
 
 also in: https://chinaxiv.org/abs/202606.00269
 
-https://github.com/QianruZhou333/Myths-of-Large-Language-Models/edit/main/README.md
+
 <img width="1157" height="560" alt="屏幕截图 2026-06-07 132740" src="https://github.com/user-attachments/assets/ef8d9f09-b476-4264-990e-3059088e18cf" />
 
 #### All data are history data, because you cannot collect data from the future. 
