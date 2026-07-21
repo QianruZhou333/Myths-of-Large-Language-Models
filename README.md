@@ -20,7 +20,7 @@ also in: https://chinaxiv.org/abs/202606.00269
 
 #### All data are history data, because you cannot collect data from the future. 
 #### No matter how accuary the model fit the history, there will always be unexpected pattern in the future. The future will always filled with possibilities. 
-#### Using machine learning in real-life, is to constrain the future within history's pattern, it will forbid any innovation, refuse any changes, decline any revolutions. 
+#### Using machine learning in real-life, is to constrain the future within history's pattern, forbid any innovation, refuse any changes, decline any revolutions. 
 
 There are only two kinds of things in the world: those who can be predicted, and those cannot. For the latter, any endeavors trying to predict their future are nothing but superstitions
 
